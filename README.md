@@ -40,13 +40,13 @@ This project aims to develop a Python program that assists in the auditing proce
    
 2. Navigate to the project directory:
    
-```bash
-  cd AI_Tone_Mall_Invoice_Auditing_System
-```
+   ```bash
+   cd AI_Tone_Mall_Invoice_Auditing_System
+   ```
    
 3. Open the Jupyter Notebook:
    
-```bash
-  jupyter notebook invoice_auditing_system.ipynb
-  ```
+   ```bash
+   jupyter notebook invoice_auditing_system.ipynb
+   ```
    
